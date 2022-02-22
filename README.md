@@ -1,0 +1,2 @@
+# Detectron-Tutorial
+Detectron2 Beginner's Tutorial Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark In this tutorial of detectron2, we will go through some basics usage of detectron2, including the following: * Run inference on images or videos, with an existing detectron2 model * Train a detectron2 model on a new dataset
